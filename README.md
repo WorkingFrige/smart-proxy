@@ -1,1 +1,1 @@
-# smart-proxy
+Ссылка - https://workingfrige.github.io/smart-proxy/
